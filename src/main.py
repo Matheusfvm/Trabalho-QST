@@ -1,6 +1,6 @@
-from src.year import select_year  # Modificado
-from src.month import select_month  # Modificado
-from src.day import select_day  # Modificado
+from src.year import select_year
+from src.month import select_month
+from src.day import select_day
 
 def main():
     print("\n----- Agendar uma reunião ----- ")
